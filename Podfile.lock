@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.6.0)
+  - OpenCV (3.3.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - OpenCV
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  OpenCV: d81447860f038d60723084aa02ecc963f95c55fa
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 0c165b6e95d6049bbb6d29ba0cdef28dee3c566e
+
+COCOAPODS: 1.3.1
