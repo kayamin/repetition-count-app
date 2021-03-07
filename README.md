@@ -3,6 +3,7 @@
 
 # Live Repetition Counting のモデルを CoreML を用いた iOS アプリに実装
 
+## 概要スライド
 https://docs.google.com/presentation/d/1J5OPOAuFthINO6BiGZUzMsMh4-Ok_y5HpebnUY-1l6I/edit?usp=sharing
 
 ```
